@@ -1,0 +1,16 @@
+body {
+    font-family: $font-mont, $font-roboto;
+    color: $text-color;
+    background-color: $white-color;
+    line-height: 1;
+}
+
+.my-container {
+    width: 1260px;
+}
+
+.my-col {
+    width: 310px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
